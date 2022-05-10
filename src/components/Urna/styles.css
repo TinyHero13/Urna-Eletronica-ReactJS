@@ -1,0 +1,9 @@
+.tela{
+    width: 700px;
+    height: 380px;
+    background-color: white;
+    border-radius: 10px;
+    display: flex;
+    flex-direction: row;
+    padding: 10px;
+}

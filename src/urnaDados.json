@@ -1,0 +1,53 @@
+{
+    "codigoFinalizacao": "0000",
+    "eleitores": [
+      {
+         "Id": "1234",
+         "Nome": "Eleitor A"
+      },
+      {
+         "Id": "5678",
+         "Nome": "Eleitor B"
+      },
+      {
+         "Id": "9012",
+         "Nome": "Eleitor C"
+      }
+    ],
+    "lanches": [
+      {
+         "Id": "11",
+         "Nome": "Hamburguer",
+         "Imagem": "https://akdelicatessen.com.br/wp-content/uploads/2021/08/hamburguer-600x420.jpg"
+      },
+      {
+         "Id": "22",
+         "Nome": "Pizza",
+         "Imagem": "https://s2.glbimg.com/wMQRG2vmN_dDJ-1HrSwGOKEbZak=/0x0:1080x608/924x0/smart/filters:strip_icc()/i.s3.glbimg.com/v1/AUTH_e84042ef78cb4708aeebdf1c68c6cbd6/internal_photos/bs/2021/e/n/G9IuruRaezxqgmwozOyg/capa-materia-gshow-49-.png"
+      },
+      {
+         "Id": "33",
+         "Nome": "Pastel",
+         "Imagem": "https://www.cozinhatecnica.com/wp-content/uploads/2019/11/massa-de-pastel.jpg"
+      }
+    ],
+    "bebidas": [
+      {
+         "Id": "444",
+         "Nome": "Refrigerante",
+         "Imagem": "http://mixologynews.com.br/wp-content/uploads/2009/11/Refrigerante-2L.jpg"
+      },
+      {
+         "Id": "777",
+         "Nome": "Suco",
+         "Imagem": "https://www.garcaonline.com.br/uploads/ftnoticias/id13218/sucos.jpg"
+      },
+      {
+         "Id": "999",
+         "Nome": "Água",
+         "Imagem": "https://www.digitalwater.com.br/wp-content/uploads/2019/02/copo-agua-cloro.jpg"
+      }
+    ]
+  }
+  
+  

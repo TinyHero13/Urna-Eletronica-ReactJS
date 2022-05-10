@@ -1,0 +1,22 @@
+.urna-votos-numeros{
+    text-align: left;
+    margin-left: 20px;
+    display: flex;    
+}
+
+.urna-voto-numero{
+    width: 45px;
+    height: 55px;
+    background-color: white;
+    color: black;
+    border: 1px solid black;
+    margin-left: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+}
+
+.nomeDoEleitor{
+    margin-top: 20px;
+}
